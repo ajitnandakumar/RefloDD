@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference this method, please cite it as below."
+title: "RefloDD: Requirement Flowdown Driven Development"
+abstract: "A method for systems thinkers building software with AI agents."
+authors:
+  - given-names: "Ajit Nandakumar"
+    family-names: "Mannargudi"
+version: "0.1"
+date-released: "2026-10-25"
+url: "https://github.com/ajitnandakumar/RefloDD"
+license: CC-BY-4.0
